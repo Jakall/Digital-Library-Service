@@ -1,6 +1,4 @@
-# School-Projects
-
-Digital Library Service
+# Digital Library Service
 
 James Georgiades-Callado
 ========
