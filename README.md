@@ -3,8 +3,6 @@
 Digital Library Service
 
 James Georgiades-Callado
-C09307631
-02/09/16
 ========
 
 Introduction
